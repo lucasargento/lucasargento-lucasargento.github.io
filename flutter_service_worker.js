@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "dcc89c20924867eba2c65bacf99d6fe0",
-"index.html": "88c55173d35dbe59e10c253821655393",
-"/": "88c55173d35dbe59e10c253821655393",
-"main.dart.js": "ebb0d0e871a2b466ecda9407fbc3968a",
+"index.html": "264c9fe2475c9281a32e462a0a6fa9b2",
+"/": "264c9fe2475c9281a32e462a0a6fa9b2",
+"main.dart.js": "6fda7ce21bdbd2eab7a5865cf767f2e1",
 "favicon.png": "8bea26da4c8522cfbb8daaac058b9650",
 "icons/Icon-512.png": "8bea26da4c8522cfbb8daaac058b9650",
 "manifest.json": "c65ff7966f22e1ff18249a9fc64a2ba4",
@@ -27,6 +27,7 @@ const RESOURCES = {
 ".git/objects/94/8f0a5d26e899539e7821aa5a500932f76ba582": "e9093d046b81c96e5fd46a48a0b68b11",
 ".git/objects/5f/72e9127ffaae2a500cd9d950067f46c21b277c": "9334d3373cb9fc449377becf4cba5477",
 ".git/objects/5f/91ad27fff5d6280126c67d253568acbc5f737a": "f8b444e20f9ddfb248ea6839a6b337b0",
+".git/objects/02/9d932881dcaccd79818a58bf898468f4aa9d92": "7a9c59a0a4f68c71c6d430c468fc11fa",
 ".git/objects/a3/09313d5fb20765dff1d8f41dbd72c558097611": "ce77a88cc2b115d907f98afb245fa5f6",
 ".git/objects/b5/b7a041ebca4d4fe7b2c2a16dea49270d4e55b7": "09dac785596e2b9da8a6ea1628c8b473",
 ".git/objects/b5/8b210ef330597a732e1bad409091172cfdbcbe": "35689b5f8aa79dda1d70ea0e5a65c042",
@@ -40,6 +41,7 @@ const RESOURCES = {
 ".git/objects/ae/d367cc1bc67ea2588b987dfb1728c1ada36b1a": "610d0f34a5736ebd1e280a4894dcf204",
 ".git/objects/e5/b84625a8a03d7a00c3e3d7d9c1dfd19ca6fab7": "7fbb1e3cfc61478836c2037aa592ea1e",
 ".git/objects/c7/f0c92a3934d10739ab157f4e85e508e3bab8f4": "9026109d303763cff99f5218737ec9b1",
+".git/objects/c0/5b73407a921002e272d8e7d225466a682aa4c9": "4b38c55cdf8d1226f4d6a98cc94b102d",
 ".git/objects/fc/963dfe2292c4e241afb5950e063414d544c093": "8cd8693ced3c797431323a7707d38029",
 ".git/objects/f2/5787c93ad00665f0f797a43ab397f0628a273e": "59e425d1456034072d902c75d18ec75f",
 ".git/objects/f5/eaf7eb1511bd9532cebfae70e47524663de109": "50b1229f40423533da8629dc65d38889",
@@ -57,8 +59,10 @@ const RESOURCES = {
 ".git/objects/1f/121f5e265bd9f817c9a33d55b970db35f930bb": "d32bf908c48234379b57fd436f052ca7",
 ".git/objects/80/f6455c70df14bfb176df4dd5fff62c4e11ad8c": "5bc32d7afb2fd79e467179ad3aae2c59",
 ".git/objects/28/2a3ef1848e41bb9eb5fc2b91207659582aff73": "7b2fcca33af1f0acc725b8eff50794dd",
+".git/objects/7b/980c145827eeffb2f939b4e086c9665305b454": "d20626ad1c9e156bd6750db678f14312",
 ".git/objects/7e/ce3282a4f7824b249d9e568819d98bd2fa3da6": "8c71b613b9912dfd1fdf473a52e99214",
 ".git/objects/26/5baf415a392598383c98f00ab45813fd7da724": "d6ba7249668ef9ef14ff73cafc5d1c3d",
+".git/objects/4d/f3f8d316f0b84864205ab180c82ec5b39c05cd": "d0d0dfada079942c1154f00dca00d764",
 ".git/objects/81/0337fcab9374ea7916511a5b9b59c1fe38c5fd": "cc99e87ef5a5ad26f76eb93e555d98fa",
 ".git/objects/72/44c0c8d4a890ac6a3860dbd456028f11cacd2f": "50031d35f03f2066c06b77ede0755c47",
 ".git/objects/2a/bf03542c17e6f7a7806a226c3be732b51c5a40": "4593012a42df8795cd0ae089a5b7aaaf",
@@ -80,6 +84,7 @@ const RESOURCES = {
 ".git/objects/a8/3a17d54b6dc2156c855c6580301cefc9c8d017": "6525101be8d70b808a809af9c83fa4ad",
 ".git/objects/de/5122212b1a6ac1b27cce4e2f0377d9b8d22909": "bbf9b5e7674e2a9e165f27a03bc37fd2",
 ".git/objects/de/e50fdf570fbc5b2a5772faf6262292c3cb93d0": "a7d8c34968d3506a6390f5fbc8f6e9ca",
+".git/objects/b9/57adc47e54767e9a014476385306580fde35e2": "a60f393607ba3b5ecb3b51ee55111a1b",
 ".git/objects/a1/829f33bbb2db897b402afb52a2b8b615b9127a": "499a07933642c65cbdf0760eb45a2a66",
 ".git/objects/ef/1a9bbade1a9bb76f87a718dcb1753e7e980783": "0afdab47cc141bb2c0bf1dec6da8d5b2",
 ".git/objects/ea/8271f701a424d39d1b0d7a7bc6bae669e862a7": "6b30fe7c359af7bf3329fc7befde291a",
@@ -106,9 +111,9 @@ const RESOURCES = {
 ".git/objects/25/64ef96e30d5d784ed89c52c8e1409f56e5b866": "59918b5cbb0147c54a17d4ec79e96c68",
 ".git/HEAD": "4cf2d64e44205fe628ddd534e1151b58",
 ".git/info/exclude": "036208b4a1ab4a235d75c181e685e5a3",
-".git/logs/HEAD": "7e0dbe450fc2bd9aef5bb24dcff10bbd",
-".git/logs/refs/heads/master": "7e0dbe450fc2bd9aef5bb24dcff10bbd",
-".git/logs/refs/remotes/origin/master": "d7767efd60c097cd3967839dd15a1241",
+".git/logs/HEAD": "3d091b84a26a332a49cfb504c808a677",
+".git/logs/refs/heads/master": "3d091b84a26a332a49cfb504c808a677",
+".git/logs/refs/remotes/origin/master": "78cc539969339870c0c72d6e4c39eede",
 ".git/description": "a0a7c3fff21f2aea3cfa1d0316dd816c",
 ".git/hooks/commit-msg.sample": "579a3c1e12a1e74a98169175fb913012",
 ".git/hooks/pre-rebase.sample": "56e45f2bcbc8226d2b4200f7c46371bf",
@@ -122,10 +127,10 @@ const RESOURCES = {
 ".git/hooks/pre-applypatch.sample": "054f9ffb8bfe04a599751cc757226dda",
 ".git/hooks/pre-push.sample": "3c5989301dd4b949dfa1f43738a22819",
 ".git/hooks/update.sample": "517f14b9239689dff8bda3022ebd9004",
-".git/refs/heads/master": "f1c062766f960a2246bf1e4823dc83f6",
-".git/refs/remotes/origin/master": "f1c062766f960a2246bf1e4823dc83f6",
-".git/index": "fda1c5948a7d5b2d3765ace223af7e03",
-".git/COMMIT_EDITMSG": "552756628b961d7247e41ea3907720e3",
+".git/refs/heads/master": "cd3ff59734629342433327586cd072b9",
+".git/refs/remotes/origin/master": "cd3ff59734629342433327586cd072b9",
+".git/index": "9a25ace5dd52f4fb0c78c404a022f18f",
+".git/COMMIT_EDITMSG": "bc2bd1b8643e620de62642602224c649",
 "assets/lucasargento.png": "23f341c8f7e7abdd1f35d15acac0cb6f",
 "assets/kumpiflyer4.png": "6c68182762c224eb6d39665522611640",
 "assets/enterprise5.png": "307fb305cc93cff5b2b038aa95d6bc6d",
@@ -149,6 +154,7 @@ const RESOURCES = {
 "assets/web/assets/enterprise3.png": "f7844d47bab432e1d6df42e04225be9b",
 "assets/web/assets/kumpiflyer1.png": "b8a25619a736d11f855a0add4d87be42",
 "assets/web/assets/flutter.png": "e56f069051ffb93ac31005949273b34a",
+"assets/web/assets/flyer%2520perspectiva.jpeg": "fa6ddacdd5005c8ebd4486585361fd42",
 "assets/web/assets/enterprise2.png": "1efcc7e26e054f33a1a31d6691c4630a",
 "assets/web/assets/gallaretas4.png": "f236e71dbca59d209889b9070e84b95c",
 "assets/web/assets/gallaretas5.png": "1e3044436661aaa69707e724e05e9d2e",
@@ -177,13 +183,14 @@ const RESOURCES = {
 "assets/gallaretas6.png": "85952584c4bbd1719ad42c165aa14efd",
 "assets/firebase.png": "9d0202b69d62d187e93910c0053b5a6b",
 "assets/smartphone.png": "92465bdcf4b03e4d9ee6a64e97d3d348",
-"assets/AssetManifest.json": "50f2dba1f9694dcc4c87e8e0d0ec0fe6",
+"assets/AssetManifest.json": "06127fd8e412a6b581bae8491b18cd01",
 "assets/todo.png": "06d3a9ca763d4e2bbdf9cf4d4fe00e83",
 "assets/gallaretas2.png": "cb9dc6e6f6d63c9888cc1af2bf0af1aa",
 "assets/gallaretas3.png": "88476b5898edb4dd988a64c82a2badf1",
 "assets/gallaretas1.png": "6b63d35a436d8e69cc4e0cc3ae68087d",
 "assets/admob.png": "0fc0794bdfca2a127d8202e3adbdc2ad",
-"assets/NOTICES": "6cdba7673f217965737e1d38bb819194",
+"assets/NOTICES": "aac7c8c01120795b247cac3b2e179a16",
+"assets/flyer%20perspectiva.jpeg": "fa6ddacdd5005c8ebd4486585361fd42",
 "assets/getitongoogleplay.png": "1f12a6762bc48d9b8718238d2da2c41d",
 "assets/yo_serio.png": "04caedd9afa70c323fb07abd5c2d40ab",
 "assets/favicon.png": "8bea26da4c8522cfbb8daaac058b9650",
@@ -212,7 +219,7 @@ const RESOURCES = {
 "assets/headerkumpi.png": "4e31a3ad27c2c0a50c5108cc745cd5c9",
 "assets/Dise%C3%B1o_sin_t%C3%ADtulo__6_-removebg-preview.png": "28f8d697c446898d564bc65e0fdfa261",
 "assets/gallaretasLogo.png": "339cee052884898b6d061eca46a8ac0e",
-"assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac"
+"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1"
 };
 
 // The application shell files that are downloaded before a service worker can
@@ -230,7 +237,7 @@ self.addEventListener("install", (event) => {
   return event.waitUntil(
     caches.open(TEMP).then((cache) => {
       return cache.addAll(
-        CORE.map((value) => new Request(value + '?revision=' + RESOURCES[value], {'cache': 'reload'})));
+        CORE.map((value) => new Request(value, {'cache': 'reload'})));
     })
   );
 });
